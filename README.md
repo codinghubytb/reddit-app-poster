@@ -21,8 +21,7 @@ A simple and efficient Python script to publish posts (text and images) on Reddi
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/reddit-publisher.git
-cd reddit-publisher
+git clone https://github.com/codinghubytb/reddit-app-poster.git
 ```
 
 ### 2. Install dependencies
@@ -194,10 +193,6 @@ reddit-publisher/
 ├── .gitignore          # Git ignore file
 └── README.md           # This file
 ```
-
-## License 📄
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Disclaimer ⚠️
 
